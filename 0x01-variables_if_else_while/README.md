@@ -1,1 +1,1 @@
-Write a program that prints all possible different combinations of three digits
+This program will assign a random number to the variable
