@@ -1,1 +1,1 @@
-a function that copies a string
+a function that reverses the content of an array of integers
