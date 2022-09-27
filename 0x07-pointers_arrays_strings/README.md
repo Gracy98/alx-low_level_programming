@@ -1,1 +1,1 @@
-function that copies memory area
+a function that fills memory with a constant byte
